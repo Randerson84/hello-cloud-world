@@ -1,0 +1,9 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+        "Name": "randerson84/myapp"
+    },
+    "Ports": [
+        {"ContainerPort": 3000}
+    ]
+}
